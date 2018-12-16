@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Employment code challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grayson073/challenge.git"
+  },
+  "author": "Kevin Grayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grayson073/challenge/issues"
+  },
+  "homepage": "https://github.com/grayson073/challenge#readme"
+}
